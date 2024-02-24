@@ -1,2 +1,2 @@
 # Maven-License
-Apache 
+
